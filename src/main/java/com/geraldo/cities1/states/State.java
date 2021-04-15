@@ -1,4 +1,4 @@
-package com.geraldo.cities1.staties;
+package com.geraldo.cities1.states;
 
 import com.geraldo.cities1.country.Country;
 import com.vladmihalcea.hibernate.type.json.JsonBinaryType;

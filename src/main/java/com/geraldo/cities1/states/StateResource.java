@@ -1,4 +1,4 @@
-package com.geraldo.cities1.staties;
+package com.geraldo.cities1.states;
 
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.RequestMapping;
@@ -7,7 +7,7 @@ import org.springframework.web.bind.annotation.RestController;
 import java.util.List;
 
 @RestController
-@RequestMapping("/staties")
+@RequestMapping("/states")
 public class StateResource {
 
     private final StateRepository stateRepository;

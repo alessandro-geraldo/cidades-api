@@ -1,4 +1,4 @@
-package com.geraldo.cities1.staties;
+package com.geraldo.cities1.states;
 
 import org.springframework.data.jpa.repository.JpaRepository;
 
